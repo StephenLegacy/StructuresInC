@@ -16,3 +16,4 @@ funct.o: funct.c funct.h
 clean:
 	rm -f $(OBJ) $(EXEC)
 
+#Edited By StephenLegacy 
